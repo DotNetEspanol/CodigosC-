@@ -5,7 +5,7 @@
 
 ## Ejemplo de codigo
 
-```C sharp
+```csharp
 static void Main(string[] args)
         {
             int numero;
