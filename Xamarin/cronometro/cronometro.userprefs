@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{24F27E5F-C676-43F0-B749-ED6E530BA038}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.cronometro AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.674d36c9" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="cronometro\MainActivity.cs">
+    <Files>
+      <File FileName="cronometro\MainActivity.cs" Line="47" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
