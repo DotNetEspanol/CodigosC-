@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadialProgress.iOS.Sample-classic", "RadialProgress.iOS.Sample-classic.csproj", "{E6B86CBE-B305-4ACF-B0D1-40BA85514F85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{957AF0CF-4765-4A55-B4EA-10415EE2ED94}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{957AF0CF-4765-4A55-B4EA-10415EE2ED94}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{957AF0CF-4765-4A55-B4EA-10415EE2ED94}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{957AF0CF-4765-4A55-B4EA-10415EE2ED94}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{957AF0CF-4765-4A55-B4EA-10415EE2ED94}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{957AF0CF-4765-4A55-B4EA-10415EE2ED94}.Release|iPhone.Build.0 = Release|Any CPU
+		{957AF0CF-4765-4A55-B4EA-10415EE2ED94}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{957AF0CF-4765-4A55-B4EA-10415EE2ED94}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{E6B86CBE-B305-4ACF-B0D1-40BA85514F85}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{E6B86CBE-B305-4ACF-B0D1-40BA85514F85}.Debug|iPhone.Build.0 = Debug|iPhone
+		{E6B86CBE-B305-4ACF-B0D1-40BA85514F85}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{E6B86CBE-B305-4ACF-B0D1-40BA85514F85}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{E6B86CBE-B305-4ACF-B0D1-40BA85514F85}.Release|iPhone.ActiveCfg = Release|iPhone
+		{E6B86CBE-B305-4ACF-B0D1-40BA85514F85}.Release|iPhone.Build.0 = Release|iPhone
+		{E6B86CBE-B305-4ACF-B0D1-40BA85514F85}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{E6B86CBE-B305-4ACF-B0D1-40BA85514F85}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = RadialProgress.iOS.Sample-classic.csproj
+	EndGlobalSection
+EndGlobal
