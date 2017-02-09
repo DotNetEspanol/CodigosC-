@@ -5,21 +5,21 @@ En este caso usaros el sp_MSForEachTable para borrar todas las tablas desactivan
 
 Seleccionamos la base de datos con la cual vamos a trabajar
 
-```
+```SQL
 USE [BaseDeDatos]
 GO
 ```
 
 Desactivamos los Refenrencias de Integridad en la base de datos
 
-```
+```SQL
 EXEC sp_MSForEachTable 'ALTER TABLE ? NOCHECK CONSTRAINT ALL'
 GO
 ```
 
 Bye Bye tablas
 
-```
+```SQL
 EXEC sp_MSforeachtable @command1 = "DROP TABLE ?"
 GO
 ```
@@ -27,14 +27,14 @@ GO
 Otra vez, Bye Bye tablas. 
 **Esta parte es, para asegurarnos que se borraron las tablas**
 
-```
+```SQL
 EXEC sp_MSforeachtable @command1 = "DROP TABLE ?"
 GO
 ```
 
 Activamos los Refenrencias de Integridad en la base de datos
 
-```
+```SQL
 EXEC sp_MSForEachTable 'ALTER TABLE ? CHECK CONSTRAINT ALL'
 GO
 ```
