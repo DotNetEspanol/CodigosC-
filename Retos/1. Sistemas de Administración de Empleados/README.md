@@ -19,6 +19,14 @@ Desde
 
 hasta ‘chunflai’, por decir algo.
 
+**Como subir tu proyecto:**
+*	Hacer un **FORK**.
+*	Crear una carpeta dentro de: /Retos/1. Sistemas de Administración de Empleados/**_TU_ Proyecto + Nombre **.
+
+> Ejemplo:
+**/Retos/1. Sistemas de Administración de Empleados/Gestion Clientes - Dionny Prensa**
+
+*	Hacer el **PULL REQUEST**.
  
 ####El mismo comprenderá aspectos tales como:
 
